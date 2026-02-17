@@ -1,0 +1,29 @@
+[
+  {
+    "documento_instructor": "10610001",
+    "datos_personales": {
+      "nombre": "Carlos",
+      "apellido": "Pérez",
+      "correo": "cperez@sena.edu.co"
+    },
+    "especialidad": "Software",
+    "salario": 3500000,
+    "competencias_asignadas": [
+      { "codigo": "COMP-01", "nombre": "Diseñar bases de datos relacionales" },
+      { "codigo": "COMP-SQL-02", "nombre": "Construir bases de datos NoSQL" }
+    ]
+  },
+  {
+    "documento_instructor": "10610002",
+    "datos_personales": {
+      "nombre": "Marta",
+      "apellido": "Rodríguez",
+      "correo": "mrodriguez@sena.edu.co"
+    },
+    "especialidad": "Contabilidad",
+    "salario": 2800000,
+    "competencias_asignadas": [
+      { "codigo": "COMP-CONT-01", "nombre": "Contabilizar operaciones financieras" }
+    ]
+  }
+]

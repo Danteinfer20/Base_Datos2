@@ -1,0 +1,41 @@
+[
+  {
+    "codigo_centro": "9201",
+    "nombre_centro": "Centro de Comercio y Servicios",
+    "ubicacion": "Popayán, Cauca",
+    "oferta_educativa": [
+      {
+        "codigo_programa": "ADSO-01",
+        "nombre_programa": "Análisis y Desarrollo de Software",
+        "modalidad": "Presencial",
+        "fichas": [
+          { "numero": "2879541", "jornada": "Mañana", "cupos": 30 },
+          { "numero": "3066446", "jornada": "Mixta", "cupos": 25 }
+        ]
+      },
+      {
+        "codigo_programa": "CONT-02",
+        "nombre_programa": "Contabilidad y Finanzas",
+        "modalidad": "Virtual",
+        "fichas": [
+          { "numero": "2879542", "jornada": "Virtual", "cupos": 50 }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo_centro": "9202",
+    "nombre_centro": "Centro Agropecuario",
+    "ubicacion": "Popayán - Alto Cauca",
+    "oferta_educativa": [
+      {
+        "codigo_programa": "AGRO-03",
+        "nombre_programa": "Gestión de Empresas Agropecuarias",
+        "modalidad": "Presencial",
+        "fichas": [
+          { "numero": "2501003", "jornada": "Mañana", "cupos": 20 }
+        ]
+      }
+    ]
+  }
+]

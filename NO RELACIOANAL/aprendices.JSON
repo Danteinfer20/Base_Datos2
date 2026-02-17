@@ -1,0 +1,41 @@
+[
+  {
+    "documento": "10620002",
+    "nombre": "Julián",
+    "apellido": "García",
+    "fecha_nacimiento": "2005-05-20",
+    "edad": 23,
+    "formacion_actual": {
+      "numero_ficha": "3066446",
+      "programa": "ADSO",
+      "centro": "Comercio y Servicios",
+      "promedio_asistencia": 95
+    }
+  },
+  {
+    "documento": "10620003",
+    "nombre": "Paola",
+    "apellido": "Sánchez",
+    "fecha_nacimiento": "2004-11-12",
+    "edad": 19,
+    "formacion_actual": {
+      "numero_ficha": "2879541",
+      "programa": "ADSO",
+      "centro": "Comercio y Servicios",
+      "promedio_asistencia": 88
+    }
+  },
+  {
+    "documento": "10620004",
+    "nombre": "Kevin",
+    "apellido": "López",
+    "fecha_nacimiento": "2006-01-30",
+    "edad": 25,
+    "formacion_actual": {
+      "numero_ficha": "2501003",
+      "programa": "Sistemas",
+      "centro": "Agropecuario",
+      "promedio_asistencia": 70
+    }
+  }
+]
