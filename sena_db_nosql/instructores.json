@@ -1,0 +1,30 @@
+[
+  {
+    "id_nomina": "INST-001",
+    "nombre": "Juan Pablo Rodríguez",
+    "especialidad": "Ingeniería de Software",
+    "fichas_a_cargo": ["2823456", "2823500"],
+    "contacto": "jprodriguez@sena.edu.co"
+  },
+  {
+    "id_nomina": "INST-002",
+    "nombre": "Marta Lucía Gómez",
+    "especialidad": "Redes y Telecomunicaciones",
+    "fichas_a_cargo": ["2556789"],
+    "contacto": "mlgomez@sena.edu.co"
+  },
+  {
+    "id_nomina": "INST-003",
+    "nombre": "Ricardo Estupiñán",
+    "especialidad": "Base de Datos",
+    "fichas_a_cargo": ["2823456"],
+    "contacto": "restupinan@sena.edu.co"
+  },
+  {
+    "id_nomina": "INST-004",
+    "nombre": "Sonia Valencia",
+    "especialidad": "Ética y Comunicación",
+    "fichas_a_cargo": ["2823456", "2556789", "2823500"],
+    "contacto": "svalencia@sena.edu.co"
+  }
+]

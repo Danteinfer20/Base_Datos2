@@ -1,0 +1,17 @@
+ {
+    "documento": "1061700811",
+    "nombre_completo": "Julián sandoval samboni",
+    "perfil": {
+      "email": "samboniwwwddev@sena.edu.co",
+      "grado_escolar": 11,
+      "edad": 30,
+      "ciudad": "Popayán"
+    },
+    "matricula": {
+      "programa": "programacion de software",
+      "tipo": "Tecnico",
+      "ficha": "289865",
+      "centro": "Centro de Comercio y Servicios",
+      "estado": "Formación"
+    }
+ }

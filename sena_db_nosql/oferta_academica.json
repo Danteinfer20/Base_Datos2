@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "ADSO-2026",
+    "nombre": "Análisis y Desarrollo de Software",
+    "nivel": "Tecnólogo",
+    "duracion": "27 meses",
+    "competencias_clave": ["Programación", "Bases de Datos", "Requisitos"]
+  },
+  {
+    "codigo": "GEST-2026",
+    "nombre": "Gestión Administrativa",
+    "nivel": "Técnico",
+    "duracion": "12 meses",
+    "competencias_clave": ["Documentación", "Servicio al Cliente"]
+  },
+  {
+    "codigo": "SIST-2026",
+    "nombre": "Sistemas",
+    "nivel": "Técnico",
+    "duracion": "12 meses",
+    "competencias_clave": ["Mantenimiento", "Ofimática"]
+  },
+  {
+    "codigo": "CONT-2026",
+    "nombre": "Contabilidad",
+    "nivel": "Tecnólogo",
+    "duracion": "27 meses",
+    "competencias_clave": ["Finanzas", "Impuestos", "Auditoría"]
+  }
+]

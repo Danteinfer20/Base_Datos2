@@ -39,3 +39,14 @@
     }
   }
 ]
+    "documento": "10620002",
+    "nombre": "Julián",
+    "apellido": "García",
+    "fecha_nacimiento": "2005-05-20",
+    "edad": 23,
+    "formacion_actual": {
+      "numero_ficha": "3066446",
+      "programa": "ADSO",
+      "centro": "Comercio y Servicios",
+      "promedio_asistencia": 95
+    }
